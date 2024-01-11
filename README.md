@@ -1,7 +1,7 @@
 # 2023-2nd-Urban-Heat-Island-Project-JeongMin
 2023 2nd Urban Heat Island Project 🏝
 
-2023-2학기 모바일프로그래밍 팀 프로젝트 과제물 **도시 열섬 바로 알기 All-in One Application**의 메인 화면 레이아웃 입니다.
+2023-2학기 모바일프로그래밍 팀 프로젝트 과제물 **도시 열섬 바로 알기 All-in One Application의 메인 화면 레이아웃** 입니다.
 
 ## 프로젝트 개요
 
