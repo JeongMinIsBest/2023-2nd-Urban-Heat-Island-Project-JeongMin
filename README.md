@@ -59,6 +59,4 @@ WebCrawling을 통해 수집해온 데이터를 저장합니다.
 
 도시 열섬 바로 알기 올인원 애플리케이션은 사용자의 현재 위치를 기반으로 열섬 현상을 피할 수 있는 녹지 공간을 추천하고 안내할 수 있으며, 열섬 현상 관련 지식 퀴즈를 풀면서 열섬 현상에 대한 인식을 높일 수 있습니다.  
 
-
-
-
+![슬라이드1](https://github.com/JeongMinIsBest/2023-2nd-Urban-Heat-Island-Project-JeongMin/assets/105098123/049256a3-0bde-4c98-a5ce-f030a4515d0d)
