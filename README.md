@@ -47,7 +47,7 @@ WebCrawling을 통해 수집해온 데이터를 저장합니다.
 
 수집하고 저장한 데이터를 옷 추천 화면(ShowClothes.xml)에 상품명, 상품 사진, 가격을 나타냅니다.
 
-![스크린샷 2024-01-11 163843](https://github.com/JeongMinIsBest/2023-2nd-Urban-Heat-Island-Project-JeongMin/assets/105098123/d5ea2fe6-74da-4360-ad4a-e74b2f2b4bf1)
+![스크린샷 2024-01-11 163843](https://github.com/JeongMinIsBest/2023-2nd-Urban-Heat-Island-Project-JeongMin/assets/105098123/1ed933d4-3811-48c9-9e19-841beee5f1f1)
 
 --
 
